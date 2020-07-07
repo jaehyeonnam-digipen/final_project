@@ -1,7 +1,7 @@
-###sound
+### sound
 
 
-##main.mp3
+## main.mp3
 
 
 song name : New Horizons
@@ -10,7 +10,7 @@ song name : New Horizons
 https://www.youtube.com/audiolibrary/music?nv=1
 
 
-###image
+### image
 
 
 No photos from outside were used and no separate programs were used.
