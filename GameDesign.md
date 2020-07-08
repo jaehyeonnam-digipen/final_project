@@ -82,6 +82,15 @@ The number of obstacles varies depending on the level of difficulty.
 ![credit](https://github.com/jaehyeonnam-digipen/final_project/blob/master/credit.png)
 
 
+This is credit screen
+
 
 ### Help picture
 ![help](https://github.com/jaehyeonnam-digipen/final_project/blob/master/help.png)
+
+
+
+This is help screen
+
+
+There are five rules in total.
